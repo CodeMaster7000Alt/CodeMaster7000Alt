@@ -3,5 +3,5 @@ Welcome to the alternate Github account of CodeMaster7000! I will be mainly usin
 
 <div align="center">
   
-<sup>You are visitor number:</sup><br />![Visitor Count](https://profile-counter.glitch.me/CodeMaster7000/count.svg)
+<sup>You are visitor number:</sup><br />![Visitor Count](https://profile-counter.glitch.me/CodeMaster7000Alt/count.svg)
 
